@@ -72,6 +72,6 @@ figure(2)
 title(sprintf('V_{Test} = %2.5f*( f_{motor} )',b));hold on
 scatter(f_mot,v_test,'d'); hold on
 plot(f_mot,V_test_mot);
-xlabel('Motor Speed (Hz)');
+xlabel('Motor Frequency (Hz)');
 ylabel('Test Section Velocity (m/s)');
 
