@@ -77,3 +77,14 @@ scatter(mot_speed,v_test,'d'); hold on
 plot(mot_speed,linfit);
 xlabel('Motor Speed (Hz)');
 ylabel('Test Section Velocity (m/s)');
+
+
+
+
+
+
+
+
+
+
+
